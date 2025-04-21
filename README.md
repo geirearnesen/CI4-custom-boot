@@ -8,7 +8,7 @@ With this customization, you can easily manage your CodeIgniter 4 application by
 
 ## Features
 Load the configuration files from in the following order
-1. app/AppConfig/localhost_docker_foo
+1. app/AppConfig/localhost_docker_foo (folder corresponding to the hostname)
    - .env
    - AppConstants.php 
    - Constants.php 
